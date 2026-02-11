@@ -3,4 +3,4 @@
 AutoFocusCam is a framing-focused camera app built for consistent shots.
 
 - [Privacy Policy](privacy.md)
-- Support: support@autofocuscam.app
+- Support: kadewalton@proton.me
