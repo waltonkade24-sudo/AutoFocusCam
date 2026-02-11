@@ -7,6 +7,6 @@ The app uses the device camera solely to capture photos at the user’s request.
 AutoFocusCam does not use analytics, tracking technologies, or third-party advertising services.
 
 If you have questions, contact:
-support@autofocuscam.app
+kadewalton@proton.me
 
 Last updated: January 2026
